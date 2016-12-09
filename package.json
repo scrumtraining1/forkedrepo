@@ -1,0 +1,19 @@
+{
+  "name": "forkedrepo",
+  "version": "1.0.0",
+  "description": "example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unconfined/forkedrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unconfined/forkedrepo/issues"
+  },
+  "homepage": "https://github.com/Unconfined/forkedrepo#readme"
+}
